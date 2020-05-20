@@ -11,7 +11,7 @@ Increasing score based on timer: https://www.youtube.com/watch?v=QbqnDbexrCw
 
 
 Assets
-Paceman: https://noobtuts.com/unity/2d-pacman-game
+Pacman: https://noobtuts.com/unity/2d-pacman-game
 Ghost: https://noobtuts.com/unity/2d-pacman-game
 Background music: https://www.youtube.com/watch?v=X-cweJA53wM
 Donut sprite: https://www.piskelapp.com/p/agxzfnBpc2tlbC1hcHByEwsSBlBpc2tlbBiAgIDElprJCgw/view
